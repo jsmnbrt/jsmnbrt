@@ -5,6 +5,8 @@ I'm Jasmine! (or Жасмина, or 茉莉). For over 12 years, I've been a prof
 
 ### Embracing my Hackerman! 🚀
 
+<img  align=center width='700' alt='Mr Robot Hackerman meme - Elliot Alderson looking smug with his coding skills' src=hackerman.jpeg/>
+
 I am (overly) excited to embark on a journey to become a top-notch software developer, crafting the cleanest, most elegant code my brain can spit out! 💻
 
 You know what fuels my passion? The unending quest for knowledge and adventure! I'm coming to the end of my time with the brilliant folks at Northcoders, where I've been honing my skills and gaining invaluable expertise. Once I'm done, I can't wait to dive deep into the realms of C#, C++, and even explore the captivating world of Unreal Engine 5. 🎮 
