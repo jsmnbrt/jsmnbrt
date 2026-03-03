@@ -1,55 +1,82 @@
+# Hi, I’m Jasmine 👋
 
-# Привет! 你好！Hi! ✌🏼
+DevOps Engineer based in Liverpool, UK, specialising in cloud platforms, Infrastructure as Code, and CI/CD automation.
 
-I'm Jasmine! (or Жасмина, or 茉莉). For over 12 years, I've been a professional in mid-senior management roles working for various creative organisations. But! But! BUT...!!! It's time to dip my fingers into some very techie (but really, not so very different) pies! 🥧
+I implement cloud platforms primarily within Microsoft Azure, contributing to the build and ongoing support of secure and scalable environments. My focus is on Infrastructure as Code, CI/CD pipelines, and improving platform reliability through automation.
 
-### Embracing my Hackerman! 🚀
-
-<img  align=center width='700' alt='Mr Robot Hackerman meme - Elliot Alderson looking smug with his coding skills' src=hackerman.jpeg/>
-
-I am (overly) excited to embark on a journey to become a top-notch software developer, crafting the cleanest, most elegant code my brain can spit out! 💻
-
-You know what fuels my passion? The unending quest for knowledge and adventure! I'm coming to the end of my time with the brilliant folks at Northcoders, where I've been honing my skills and gaining invaluable expertise. Once I'm done, I can't wait to dive deep into the realms of C#, C++, and even explore the captivating world of Unreal Engine 5. 🎮 
-
-Of course, in true hyperfixation fashion, I'm always open to exploring other fascinating tech realms that catch my fancy too... 
-
-Over summer, I will be dedicating time to the extension of my repositories and projects (and making things that I really love!!!) If you have any ideas, suggestions, or simply want to connect, don't hesitate to reach out. 🌟
-<br>
-### if I was a js file, at least one page would look something like this:
+With a background in mid–senior management across creative organisations, I bring strong communication skills, ownership mindset, and structured problem-solving into technical teams. I’m comfortable collaborating across development and platform teams to improve processes, documentation, and deployment workflows.
 
 
-```js
-let jasmineBertie = {
-  codeUsed: ["JavaScript", "HTML", "CSS", "SQL", "TypeScript"],
-  currentSelfStudy: ["C++", "C#", "Unreal Engine 5"],
-  tools: [
-    "React",
-    "ReactNative",
-    "Node.js",
-    "Jest",
-    "PostgreSQL",
-    "VisualStudioCode",
-  ],
-  practices: [
-    "Agile(kanban, scrum)",
-    "VersionControl(git)",
-    "Accessibility(implementation of best practices for inclusivity)",
-  ],
-  location: "Liverpool UK",
-  postCodeWindDown: ["Gaming", "Anime", "Learning Chinese 🇨🇳"],
-};
+---
 
-function UpdateCurrentLikes(summer) {
-  jasmine.postCodeWindDown.push(`wild swimming 🏊🏼‍♀️`);
-  jasmine.postCodeWindDown.push(`fixie riding around Liverpool`);
-  jasmine.postCodeWindDown[0] = `Shenmue 3`;
-}
+## 🔧 Core Focus Areas
 
-function addNewHyperfixation() {
-  jasmine.dreamJobs = [`Game Developer`, `Game QA Tester`] ;
-}
+- Azure landing zone design  
+- Infrastructure as Code (Terraform)  
+- CI/CD automation (Azure DevOps & GitHub Actions)  
+- Secure-by-design infrastructure  
+- Shared services & governance  
+- Platform reliability & observability
+- SSL Certification monitoring and installation  
 
-UpdateCurrentLikes(summer);
-addNewHyperfixation();
-console.log(jasmine);
-```
+---
+
+## 🛠 Technical Stack
+
+### ☁️ Cloud & Platform
+- Microsoft Azure  
+- Azure AD / RBAC  
+- Virtual Networks & networking architecture  
+- Key Vault   
+
+### 📦 Infrastructure as Code
+- Terraform  
+- Modular architecture patterns  
+- Remote state management  
+- Environment separation (dev/test/prod)  
+
+### 🚀 CI/CD
+- Azure DevOps  
+- GitHub Actions  
+- YAML pipelines  
+- Automated validation and deployment workflows  
+
+### 🐧 Containers & Compute
+- Linux environments  
+
+### 📊 Monitoring & Operations
+- Log Analytics  
+- Monitoring & alerting  
+- Incident investigation  
+- Release governance  
+
+---
+
+## 🎯 Current Focus
+
+- Strengthening reusable platform patterns  
+- Improving developer experience through pipeline automation  
+- Designing production-ready reference architectures  
+- Expanding Kubernetes and container orchestration knowledge  
+
+---
+
+## 📂 What You’ll Find Here
+
+This GitHub showcases:
+
+- Infrastructure-as-Code projects  
+- CI/CD pipeline examples  
+- Cloud architecture patterns  
+- Platform engineering notes & documentation  
+- Automation-focused tooling  
+
+All repositories aim to reflect real-world DevOps practices, not just experimentation.
+
+---
+
+## 📫 Connect
+
+Open to mid-level DevOps / Platform Engineering opportunities.
+
+If you'd like to discuss infrastructure, automation, or platform design, feel free to connect.
